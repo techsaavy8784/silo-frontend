@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: SushiSwap Interface\n"
+"PO-Revision-Date: 2021-05-05 14:23\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: zh_TW\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"Plural-Forms: \n"
+
+msgid "A portion of each trade (0.05%) goes to xSUSHI holders as a protocol incentive."
+msgstr ""
+
+msgid "A portion of each trade (0.25%) goes to liquidity providers as a protocol incentive."
+msgstr "每筆交易的0.25%都會分給協議的流動性提供者。"
+
+msgid "APR"
+msgstr "APR"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add Liquidity"
+msgstr "添加流動性"
+
+msgid "Add {0} to MetaMask"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+msgid "Approve"
+msgstr "批准"
+
+msgid "Approve Kashi"
+msgstr "批準Kashi"
+
+msgid "Approving"
+msgstr "批準中"
+
+msgid "Are you sure?"
+msgstr "您確定嗎？"
+
+msgid "Auto"
+msgstr ""
+
+msgid "Available Networks"
+msgstr ""
+
+msgid "Balance:"
+msgstr ""
+
+msgid "Bento Balance: {0}"
+msgstr "Bento余额： {0}"
+
+msgid "BentoBox"
+msgstr "BentoBox"
+
+msgid "BentoBox provides extra yield on deposits with flash lending, strategies, and fixed, low-gas transfers among integrated dapps, like Kashi markets"
+msgstr "BentoBox通過在集成的dapp中使用閃電貸、策略以及固定和低Gas的轉賬，來提供額外收益"
+
+msgid "Buy"
+msgstr ""
+
+msgid "Bypasses confirmation modals and allows high slippage trades. Use at your own risk."
+msgstr "跳過確認、接受交易高滑點。使用時風險自擔。"
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Clear History"
+msgstr "清除歷史"
+
+msgid "Clear all"
+msgstr ""
+
+msgid "Confirm Supply"
+msgstr "確認供應"
+
+msgid "Confirm Swap"
+msgstr "確認交換"
+
+msgid "Confirm convert"
+msgstr ""
+
+msgid "Confirm this transaction in your wallet"
+msgstr ""
+
+msgid "Connect Wallet"
+msgstr "連接錢包"
+
+msgid "Connect to a wallet"
+msgstr "連接錢包"
+
+msgid "Connect to wallet"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "Converting {0} {1} for {2} {3}"
+msgstr ""
+
+msgid "Copied"
+msgstr ""
+
+msgid "Copy Address"
+msgstr ""
+
+msgid "Create Pool & Supply"
+msgstr "創建池和供應"
+
+msgid "Create a pair"
+msgstr "創建交易對"
+
+msgid "Deposit"
+msgstr "存款"
+
+msgid "Deposit tokens into BentoBox for all the yields"
+msgstr "將代幣存入BentoBox，以獲得所有收益。"
+
+msgid "Dev"
+msgstr "開發人員"
+
+msgid "Disable Multihops"
+msgstr "禁用Multihops"
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Dismiss"
+msgstr "解散"
+
+msgid "Docs"
+msgstr "文档"
+
+msgid "Documentation for developers of Sushi."
+msgstr "Sushi開發文檔。"
+
+msgid "Documentation for users of Sushi."
+msgstr "Sushi用户文档。"
+
+msgid "Either return to the {link}, or change to an available network."
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Enter a recipient"
+msgstr "輸入收件人"
+
+msgid "Enter a valid slippage percentage"
+msgstr "輸入有效的滑點百分比"
+
+msgid "Enter an amount"
+msgstr "輸入金額"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Error connecting"
+msgstr ""
+
+msgid "Error connecting. Try refreshing the page."
+msgstr ""
+
+msgid "Exchange Rate"
+msgstr ""
+
+msgid "Expanded results from inactive Token Lists"
+msgstr ""
+
+msgid "Expert Mode"
+msgstr ""
+
+msgid ""
+"Expert mode turns off the confirm transaction prompt and allows high slippage trades\n"
+"that often result in bad rates and lost funds."
+msgstr "專家模式關閉確認交易彈出、允許高交易滑點經常會導致不好的價格和資金的丟失。"
+
+msgid "Expired"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Harvest {0} SUSHI {1}"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import Pool"
+msgstr "導入流動性池"
+
+msgid "Input is estimated. You will sell at most"
+msgstr ""
+
+msgid "Insufficient Balance"
+msgstr "余額不足"
+
+msgid "Insufficient {0} balance"
+msgstr "代幣{0}餘額不足"
+
+msgid "Interface Settings"
+msgstr "交互設置"
+
+msgid "Invalid pair"
+msgstr "無效的代幣對"
+
+msgid "Invalid recipient"
+msgstr "无效收件人"
+
+msgid "Italian"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Join the community on Discord."
+msgstr "加入Discord社區。"
+
+msgid "Korean"
+msgstr ""
+
+msgid "Learn more about wallets"
+msgstr ""
+
+msgid "Liquidity Provider Fee"
+msgstr "LP獎勵"
+
+msgid "Lists"
+msgstr "清單"
+
+msgid "Loading"
+msgstr "載入中"
+
+msgid "Loading Balance"
+msgstr ""
+
+msgid "Loading balance"
+msgstr ""
+
+msgid "MAX"
+msgstr "最大數量"
+
+msgid ""
+"MEOW tokens wrap xSUSHI into BentoBox for double yields and can be\n"
+"used to vote in special MEOW governor contracts."
+msgstr ""
+
+msgid "MEV Shield by Archer DAO"
+msgstr ""
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Manage Token Lists"
+msgstr ""
+
+msgid "Max"
+msgstr "最大數量"
+
+msgid "Maximum sent"
+msgstr ""
+
+msgid "Miner Tip"
+msgstr ""
+
+msgid "Minimum received"
+msgstr "最少可獲得的數量"
+
+msgid "My SUSHI"
+msgstr ""
+
+msgid "Network not supported yet"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New to Ethereum?"
+msgstr ""
+
+msgid "No liquidity found to do swap"
+msgstr "沒有發現流動性可以互換"
+
+msgid "No results found"
+msgstr "未找到結果"
+
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
+msgstr "只有当您知道自己在做什么时，才会使用此模式。"
+
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device"
+msgstr "糟糕！出現未知錯誤。請刷新頁面，或從其他瀏覽器或設備訪問"
+
+msgid "Open Source"
+msgstr "開源"
+
+msgid "Open main menu"
+msgstr "打開主菜單"
+
+msgid "Output is estimated. You will receive at least"
+msgstr ""
+
+msgid "Output will be sent to"
+msgstr ""
+
+msgid "Pending"
+msgstr "處理中"
+
+msgid "Please connect to the appropriate Ethereum network."
+msgstr ""
+
+msgid "Please enter an amount"
+msgstr ""
+
+msgid "Pool"
+msgstr "資金池"
+
+msgid "Pool tokens in rewards pool"
+msgstr "獎勵池中的代幣"
+
+msgid "Pooled {0}"
+msgstr "汇集{0}"
+
+msgid "Price Impact"
+msgstr "價格影響"
+
+msgid "Price Updated"
+msgstr "價格更新"
+
+msgid "Rates"
+msgstr "費率"
+
+msgid "Recent Transactions"
+msgstr ""
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Remove Liquidity"
+msgstr "移除流動性"
+
+msgid "Restricts swaps to direct pairs only."
+msgstr "限制只交易直接交易對。"
+
+msgid "Rewards"
+msgstr ""
+
+msgid "Roll it back - this feature is not yet supported on {0}."
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Route"
+msgstr "路徑"
+
+msgid "Routing through these tokens resulted in the best price for your trade."
+msgstr "路由經過這些代幣將給您的交易帶來最好的價格。"
+
+msgid "Russian"
+msgstr ""
+
+msgid "Search name or paste address"
+msgstr "搜索名稱或粘貼地址"
+
+msgid "Select Borrow Silo:"
+msgstr ""
+
+msgid "Select Collateral Silo:"
+msgstr ""
+
+msgid "Select Silo:"
+msgstr ""
+
+msgid "Select a asset token"
+msgstr ""
+
+msgid "Select a collateral token"
+msgstr ""
+
+msgid "Select a rate"
+msgstr ""
+
+msgid "Select a token"
+msgstr "選擇代幣"
+
+msgid "Select an order expiration"
+msgstr ""
+
+msgid "Select:"
+msgstr ""
+
+msgid "Send to:"
+msgstr ""
+
+msgid "Send transaction privately to avoid front-running and sandwich attacks. Requires a miner tip to incentivize miners"
+msgstr ""
+
+msgid "Share of Pool"
+msgstr "池子裏的份額"
+
+msgid "Share of Pool:"
+msgstr "池子裏的份額："
+
+msgid "Slippage tolerance"
+msgstr "可容忍滑點"
+
+msgid "Slippage tolerance..."
+msgstr ""
+
+msgid "Something went wrong during signing of the approval. This is expected for hardware wallets, such as Trezor and Ledger. Click again and the fallback method will be used"
+msgstr "在簽署批準時出現錯誤。可能是硬件錢包例如Trezor和Ledger。再次點擊，將使用倒退的辦法。"
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Stake"
+msgstr "質押"
+
+msgid "Sushi is a supporter of Open Source."
+msgstr "Sushi是開源協議的支持者。"
+
+msgid "TVL"
+msgstr "TVL"
+
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr ""
+
+msgid "The difference between the market price and estimated price due to trade size."
+msgstr "因為交易規模所導致的市場價格和您的價格之間的差距。"
+
+msgid "The input token cannot be transferred. There may be an issue with the input token."
+msgstr ""
+
+msgid "The output token cannot be transferred. There may be an issue with the output token."
+msgstr ""
+
+msgid "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
+msgstr ""
+
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr ""
+
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance."
+msgstr ""
+
+msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
+msgstr "交易未成功，可能因為價格變動，也可能轉賬中產生的費用。請提高您可接受的滑點。"
+
+msgid "Tip to encourage miners to select this transaction."
+msgstr ""
+
+msgid "Toggle Expert Mode"
+msgstr "切換專家模式"
+
+msgid "Token"
+msgstr "代幣"
+
+msgid "Tokens"
+msgstr "代幣"
+
+msgid ""
+"Tokens from inactive lists. Import specific tokens below or\n"
+"click Manage to activate more lists."
+msgstr ""
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Tools to optimize your workflow."
+msgstr "用於優化工作流程的工具。"
+
+msgid "Transaction History {0}"
+msgstr ""
+
+msgid "Transaction Settings"
+msgstr "交易設置"
+
+msgid "Transaction Submitted"
+msgstr ""
+
+msgid "Transaction deadline"
+msgstr "交易期限"
+
+msgid "Turn On Expert Mode"
+msgstr "開啟專家模式"
+
+msgid "Unknown error{0}. Try increasing your slippage tolerance."
+msgstr ""
+
+msgid "Unstake"
+msgstr "解除抵押"
+
+msgid "Use SUSHI"
+msgstr ""
+
+msgid "Use xSUSHI"
+msgstr ""
+
+msgid "Vesting"
+msgstr "鎖倉"
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "View on explorer"
+msgstr "在瀏覽器查看"
+
+msgid "Waiting for Confirmation"
+msgstr ""
+
+msgid "Wallet"
+msgstr "錢包"
+
+msgid "Wallet Balance"
+msgstr "錢包余額"
+
+msgid "Weekly unlocks from the vesting period."
+msgstr ""
+
+msgid "Withdraw"
+msgstr "提取"
+
+msgid "Wrong Network"
+msgstr "錯誤的網絡"
+
+msgid "You are on the wrong network"
+msgstr "您位在錯誤的網路"
+
+msgid "Your Staked"
+msgstr "您在流動性池的占比"
+
+msgid "Your pool share"
+msgstr "您在流動性池的佔比"
+
+msgid "Your total pool tokens"
+msgstr "流動性池中的總代幣"
+
+msgid "Your transaction may be frontrun"
+msgstr "您的交易可能被搶跑。"
+
+msgid "Your transaction may fail"
+msgstr "您的交易可能失敗。"
+
+msgid "Your transaction will revert 23if the price changes unfavorably by more than this percentage."
+msgstr ""
+
+msgid "Your transaction will revert if it is pending for more than this long."
+msgstr "如果您的交易待處理的時間超過此時間，則它將還原。"
+
+msgid "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed."
+msgstr "如果交易在確認之前出現大的不利價格變動，則交易將恢復。"
+
+msgid "Your transactions will appear here..."
+msgstr ""
+
+msgid "failed to load"
+msgstr "加載失敗"
+
+msgid "home page"
+msgstr ""
+
+msgid "loading..."
+msgstr "載入中..."
+
+msgid "minutes"
+msgstr "分鐘"
+
+msgid "or the transaction will revert."
+msgstr ""
+
+msgid "xSUSHI Fee"
+msgstr ""
+
+#. js-lingui:icu=%7B0%2C+plural%2C+one+%7BToken%7D+many+%7BTokens%7D%7D&pluralize_on=0
+msgid "Token"
+msgid_plural "Tokens"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "{0} Deposited"
+msgstr "{0}存入的"
+
+msgid "{0} {1} per {2}"
+msgstr ""

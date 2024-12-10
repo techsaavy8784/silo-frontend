@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: SushiSwap Interface\n"
+"PO-Revision-Date: 2021-05-05 14:23\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: en\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"Plural-Forms: \n"
+
+msgid "A portion of each trade (0.05%) goes to xSUSHI holders as a protocol incentive."
+msgstr "A portion of each trade (0.05%) goes to xSUSHI holders as a protocol incentive."
+
+msgid "A portion of each trade (0.25%) goes to liquidity providers as a protocol incentive."
+msgstr "A portion of each trade (0.25%) goes to liquidity providers as a protocol incentive."
+
+msgid "APR"
+msgstr "APR"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add Liquidity"
+msgstr "Add Liquidity"
+
+msgid "Add {0} to MetaMask"
+msgstr "Add {0} to MetaMask"
+
+msgid "Added"
+msgstr "Added"
+
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note fee on transfer and rebase tokens are incompatible with Uniswap V3."
+
+msgid "Approve"
+msgstr "Approve"
+
+msgid "Approve Kashi"
+msgstr "Approve Kashi"
+
+msgid "Approving"
+msgstr "Approving"
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Available Networks"
+msgstr "Available Networks"
+
+msgid "Balance:"
+msgstr "Balance:"
+
+msgid "Bento Balance: {0}"
+msgstr "Bento Balance: {0}"
+
+msgid "BentoBox"
+msgstr "BentoBox"
+
+msgid "BentoBox provides extra yield on deposits with flash lending, strategies, and fixed, low-gas transfers among integrated dapps, like Kashi markets"
+msgstr "BentoBox provides extra yield on deposits with flash lending, strategies, and fixed, low-gas transfers among integrated dapps, like Kashi markets"
+
+msgid "Buy"
+msgstr "Buy"
+
+msgid "Bypasses confirmation modals and allows high slippage trades. Use at your own risk."
+msgstr "Bypasses confirmation modals and allows high slippage trades. Use at your own risk."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Change"
+msgstr "Change"
+
+msgid "Chinese"
+msgstr "Chinese"
+
+msgid "Clear History"
+msgstr "Clear History"
+
+msgid "Clear all"
+msgstr "Clear all"
+
+msgid "Confirm Supply"
+msgstr "Confirm Supply"
+
+msgid "Confirm Swap"
+msgstr "Confirm Swap"
+
+msgid "Confirm convert"
+msgstr "Confirm convert"
+
+msgid "Confirm this transaction in your wallet"
+msgstr "Confirm this transaction in your wallet"
+
+msgid "Connect Wallet"
+msgstr "Connect Wallet"
+
+msgid "Connect to a wallet"
+msgstr "Connect to a wallet"
+
+msgid "Connect to wallet"
+msgstr "Connect to wallet"
+
+msgid "Convert"
+msgstr "Convert"
+
+msgid "Converting {0} {1} for {2} {3}"
+msgstr "Converting {0} {1} for {2} {3}"
+
+msgid "Copied"
+msgstr "Copied"
+
+msgid "Copy Address"
+msgstr "Copy Address"
+
+msgid "Create Pool & Supply"
+msgstr "Create Pool & Supply"
+
+msgid "Create a pair"
+msgstr "Create a pair"
+
+msgid "Deposit"
+msgstr "Deposit"
+
+msgid "Deposit tokens into BentoBox for all the yields"
+msgstr "Deposit tokens into BentoBox for all the yields"
+
+msgid "Dev"
+msgstr "Dev"
+
+msgid "Disable Multihops"
+msgstr "Disable Multihops"
+
+msgid "Disconnect"
+msgstr "Disconnect"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Dismiss"
+msgstr "Dismiss"
+
+msgid "Docs"
+msgstr "Docs"
+
+msgid "Documentation for developers of Sushi."
+msgstr "Documentation for developers of Sushi."
+
+msgid "Documentation for users of Sushi."
+msgstr "Documentation for users of Sushi."
+
+msgid "Either return to the {link}, or change to an available network."
+msgstr "Either return to the {link}, or change to an available network."
+
+msgid "English"
+msgstr "English"
+
+msgid "Enter a recipient"
+msgstr "Enter a recipient"
+
+msgid "Enter a valid slippage percentage"
+msgstr "Enter a valid slippage percentage"
+
+msgid "Enter an amount"
+msgstr "Enter an amount"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error connecting"
+msgstr "Error connecting"
+
+msgid "Error connecting. Try refreshing the page."
+msgstr "Error connecting. Try refreshing the page."
+
+msgid "Exchange Rate"
+msgstr "Exchange Rate"
+
+msgid "Expanded results from inactive Token Lists"
+msgstr "Expanded results from inactive Token Lists"
+
+msgid "Expert Mode"
+msgstr "Expert Mode"
+
+msgid ""
+"Expert mode turns off the confirm transaction prompt and allows high slippage trades\n"
+"that often result in bad rates and lost funds."
+msgstr ""
+"Expert mode turns off the confirm transaction prompt and allows high slippage trades\n"
+"that often result in bad rates and lost funds."
+
+msgid "Expired"
+msgstr "Expired"
+
+msgid "French"
+msgstr "French"
+
+msgid "German"
+msgstr "German"
+
+msgid "Go Back"
+msgstr "Go Back"
+
+msgid "Harvest {0} SUSHI {1}"
+msgstr "Harvest {0} SUSHI {1}"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import Pool"
+msgstr "Import Pool"
+
+msgid "Input is estimated. You will sell at most"
+msgstr "Input is estimated. You will sell at most"
+
+msgid "Insufficient Balance"
+msgstr "Insufficient Balance"
+
+msgid "Insufficient {0} balance"
+msgstr "Insufficient {0} balance"
+
+msgid "Interface Settings"
+msgstr "Interface Settings"
+
+msgid "Invalid pair"
+msgstr "Invalid pair"
+
+msgid "Invalid recipient"
+msgstr "Invalid recipient"
+
+msgid "Italian"
+msgstr "Italian"
+
+msgid "Japanese"
+msgstr "Japanese"
+
+msgid "Join the community on Discord."
+msgstr "Join the community on Discord."
+
+msgid "Korean"
+msgstr "Korean"
+
+msgid "Learn more about wallets"
+msgstr "Learn more about wallets"
+
+msgid "Liquidity Provider Fee"
+msgstr "Liquidity Provider Fee"
+
+msgid "Lists"
+msgstr "Lists"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "Loading Balance"
+msgstr "Loading Balance"
+
+msgid "Loading balance"
+msgstr "Loading balance"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid ""
+"MEOW tokens wrap xSUSHI into BentoBox for double yields and can be\n"
+"used to vote in special MEOW governor contracts."
+msgstr ""
+"MEOW tokens wrap xSUSHI into BentoBox for double yields and can be\n"
+"used to vote in special MEOW governor contracts."
+
+msgid "MEV Shield by Archer DAO"
+msgstr "MEV Shield by Archer DAO"
+
+msgid "Manage"
+msgstr "Manage"
+
+msgid "Manage Token Lists"
+msgstr "Manage Token Lists"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Maximum sent"
+msgstr "Maximum sent"
+
+msgid "Miner Tip"
+msgstr "Miner Tip"
+
+msgid "Minimum received"
+msgstr "Minimum received"
+
+msgid "My SUSHI"
+msgstr "My SUSHI"
+
+msgid "Network not supported yet"
+msgstr "Network not supported yet"
+
+msgid "Never"
+msgstr "Never"
+
+msgid "New to Ethereum?"
+msgstr "New to Ethereum?"
+
+msgid "No liquidity found to do swap"
+msgstr "No liquidity found to do swap"
+
+msgid "No results found"
+msgstr "No results found"
+
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
+msgstr "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
+
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device"
+msgstr "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device"
+
+msgid "Open Source"
+msgstr "Open Source"
+
+msgid "Open main menu"
+msgstr "Open main menu"
+
+msgid "Output is estimated. You will receive at least"
+msgstr "Output is estimated. You will receive at least"
+
+msgid "Output will be sent to"
+msgstr "Output will be sent to"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "Please connect to the appropriate Ethereum network."
+
+msgid "Please enter an amount"
+msgstr "Please enter an amount"
+
+msgid "Pool"
+msgstr "Pool"
+
+msgid "Pool tokens in rewards pool"
+msgstr "Pool tokens in rewards pool"
+
+msgid "Pooled {0}"
+msgstr "Pooled {0}"
+
+msgid "Price Impact"
+msgstr "Price Impact"
+
+msgid "Price Updated"
+msgstr "Price Updated"
+
+msgid "Rates"
+msgstr "Rates"
+
+msgid "Recent Transactions"
+msgstr "Recent Transactions"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Remove Liquidity"
+msgstr "Remove Liquidity"
+
+msgid "Restricts swaps to direct pairs only."
+msgstr "Restricts swaps to direct pairs only."
+
+msgid "Rewards"
+msgstr "Rewards"
+
+msgid "Roll it back - this feature is not yet supported on {0}."
+msgstr "Roll it back - this feature is not yet supported on {0}."
+
+msgid "Romanian"
+msgstr "Romanian"
+
+msgid "Route"
+msgstr "Route"
+
+msgid "Routing through these tokens resulted in the best price for your trade."
+msgstr "Routing through these tokens resulted in the best price for your trade."
+
+msgid "Russian"
+msgstr "Russian"
+
+msgid "Search name or paste address"
+msgstr "Search name or paste address"
+
+msgid "Select Borrow Silo:"
+msgstr "Select Borrow Silo:"
+
+msgid "Select Collateral Silo:"
+msgstr "Select Collateral Silo:"
+
+msgid "Select Silo:"
+msgstr "Select Silo:"
+
+msgid "Select a asset token"
+msgstr "Select a asset token"
+
+msgid "Select a collateral token"
+msgstr "Select a collateral token"
+
+msgid "Select a rate"
+msgstr "Select a rate"
+
+msgid "Select a token"
+msgstr "Select a token"
+
+msgid "Select an order expiration"
+msgstr "Select an order expiration"
+
+msgid "Select:"
+msgstr "Select:"
+
+msgid "Send to:"
+msgstr "Send to:"
+
+msgid "Send transaction privately to avoid front-running and sandwich attacks. Requires a miner tip to incentivize miners"
+msgstr "Send transaction privately to avoid front-running and sandwich attacks. Requires a miner tip to incentivize miners"
+
+msgid "Share of Pool"
+msgstr "Share of Pool"
+
+msgid "Share of Pool:"
+msgstr "Share of Pool:"
+
+msgid "Slippage tolerance"
+msgstr "Slippage tolerance"
+
+msgid "Slippage tolerance..."
+msgstr "Slippage tolerance..."
+
+msgid "Something went wrong during signing of the approval. This is expected for hardware wallets, such as Trezor and Ledger. Click again and the fallback method will be used"
+msgstr "Something went wrong during signing of the approval. This is expected for hardware wallets, such as Trezor and Ledger. Click again and the fallback method will be used"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "Stake"
+msgstr "Stake"
+
+msgid "Sushi is a supporter of Open Source."
+msgstr "Sushi is a supporter of Open Source."
+
+msgid "TVL"
+msgstr "TVL"
+
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+
+msgid "The difference between the market price and estimated price due to trade size."
+msgstr "The difference between the market price and estimated price due to trade size."
+
+msgid "The input token cannot be transferred. There may be an issue with the input token."
+msgstr "The input token cannot be transferred. There may be an issue with the input token."
+
+msgid "The output token cannot be transferred. There may be an issue with the output token."
+msgstr "The output token cannot be transferred. There may be an issue with the output token."
+
+msgid "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
+msgstr "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
+
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance."
+msgstr "This transaction will not succeed due to price movement. Try increasing your slippage tolerance."
+
+msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
+msgstr "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
+
+msgid "Tip to encourage miners to select this transaction."
+msgstr "Tip to encourage miners to select this transaction."
+
+msgid "Toggle Expert Mode"
+msgstr "Toggle Expert Mode"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Tokens"
+msgstr "Tokens"
+
+msgid ""
+"Tokens from inactive lists. Import specific tokens below or\n"
+"click Manage to activate more lists."
+msgstr ""
+"Tokens from inactive lists. Import specific tokens below or\n"
+"click Manage to activate more lists."
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Tools to optimize your workflow."
+msgstr "Tools to optimize your workflow."
+
+msgid "Transaction History {0}"
+msgstr "Transaction History {0}"
+
+msgid "Transaction Settings"
+msgstr "Transaction Settings"
+
+msgid "Transaction Submitted"
+msgstr "Transaction Submitted"
+
+msgid "Transaction deadline"
+msgstr "Transaction deadline"
+
+msgid "Turn On Expert Mode"
+msgstr "Turn On Expert Mode"
+
+msgid "Unknown error{0}. Try increasing your slippage tolerance."
+msgstr "Unknown error{0}. Try increasing your slippage tolerance."
+
+msgid "Unstake"
+msgstr "Unstake"
+
+msgid "Use SUSHI"
+msgstr "Use SUSHI"
+
+msgid "Use xSUSHI"
+msgstr "Use xSUSHI"
+
+msgid "Vesting"
+msgstr "Vesting"
+
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+msgid "View on explorer"
+msgstr "View on explorer"
+
+msgid "Waiting for Confirmation"
+msgstr "Waiting for Confirmation"
+
+msgid "Wallet"
+msgstr "Wallet"
+
+msgid "Wallet Balance"
+msgstr "Wallet Balance"
+
+msgid "Weekly unlocks from the vesting period."
+msgstr "Weekly unlocks from the vesting period."
+
+msgid "Withdraw"
+msgstr "Withdraw"
+
+msgid "Wrong Network"
+msgstr "Wrong Network"
+
+msgid "You are on the wrong network"
+msgstr "You are on the wrong network"
+
+msgid "Your Staked"
+msgstr "Your Staked"
+
+msgid "Your pool share"
+msgstr "Your pool share"
+
+msgid "Your total pool tokens"
+msgstr "Your total pool tokens"
+
+msgid "Your transaction may be frontrun"
+msgstr "Your transaction may be frontrun"
+
+msgid "Your transaction may fail"
+msgstr "Your transaction may fail"
+
+msgid "Your transaction will revert 23if the price changes unfavorably by more than this percentage."
+msgstr "Your transaction will revert 23if the price changes unfavorably by more than this percentage."
+
+msgid "Your transaction will revert if it is pending for more than this long."
+msgstr "Your transaction will revert if it is pending for more than this long."
+
+msgid "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed."
+msgstr "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed."
+
+msgid "Your transactions will appear here..."
+msgstr "Your transactions will appear here..."
+
+msgid "failed to load"
+msgstr "failed to load"
+
+msgid "home page"
+msgstr "home page"
+
+msgid "loading..."
+msgstr "loading..."
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "or the transaction will revert."
+msgstr "or the transaction will revert."
+
+msgid "xSUSHI Fee"
+msgstr "xSUSHI Fee"
+
+#. js-lingui:icu=%7B0%2C+plural%2C+one+%7BToken%7D+many+%7BTokens%7D%7D&pluralize_on=0
+msgid "Token"
+msgid_plural "Tokens"
+msgstr[0] "Token"
+msgstr[1] "Tokens"
+
+msgid "{0} Deposited"
+msgstr "{0} Deposited"
+
+msgid "{0} {1} per {2}"
+msgstr "{0} {1} per {2}"
